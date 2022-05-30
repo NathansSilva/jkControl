@@ -1,7 +1,8 @@
 RM:88517
 
 Projeto realizado como parte da prova semestral da FIAP.
-O arquivo já vem com as fotos para usar, podendo adicionar outras se desejar.
+
+O arquivo já vem com as fotos para serem utilizadas, podendo adicionar outras se desejar.
 
 Para rodar é necessário o Jboss.
 
