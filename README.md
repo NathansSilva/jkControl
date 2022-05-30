@@ -1,6 +1,6 @@
 RM:88517
 
-Projeto realizado como parte da prova semestral da FIAP.
+Projeto realizado como parte da prova semestral da FIAP do conteúdo de Digital Business Enablement.
 
 O arquivo já vem com as fotos para serem utilizadas, podendo adicionar outras se desejar.
 
